@@ -1,0 +1,10 @@
+symbol,asset_text,asset_type,contractsize
+EUR/USD,Euro vs US Dollar,FX,100000
+AUD/CHF,Australian Dollar vs Swiss Franc,FX,100000
+EUR/CAD,Euro vs Canadian Dollar,FX,100000
+GBP/USD,Great Britain Pound vs US Dollar,FX,100000
+AUD/NZD,Australian Dollar vs New Zealand Dollar,FX,100000
+EUR/GBP,Euro vs Great Britain Pound,FX,100000
+EUR/NZD,Euro vs New Zealand Dollar,FX,100000
+XAU/USD,Gold vs US Dollar,Commodities,100
+XAG/USD,Silver vs US Dollar,Commodities,5000
